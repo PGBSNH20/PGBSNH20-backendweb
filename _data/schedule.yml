@@ -312,6 +312,7 @@ weeks:
   days:
   - day: 2021-05-24
     weekday: "Måndag"
+    activities:
     - activity: standup
       title: "Återkopling från ORM och tasks"
       titleEn: "Get together and start of day"
