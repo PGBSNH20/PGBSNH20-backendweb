@@ -243,6 +243,7 @@ weeks:
   - day: 2021-05-13
     weekday: "Torsdag"
     lecture: null
+    background-color: "#FFD0C6"
   - day: 2021-05-14
     weekday: "Fredag"
     lecture: null
@@ -304,7 +305,6 @@ weeks:
     activities: null
   - day: 2021-05-21
     weekday: "Fredag"
-    background-color: "#FFD0C6"
     activities: null
 - week: 21
   year: 2021
