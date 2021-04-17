@@ -19,17 +19,17 @@ weeks:
       start-full: 20210419T083000
       end-full: 20210419T093000
     - activity: lecture
-      title: "C# refresh"
-      titleEn: "C# refresh"
+      title: "Internet och protokoll"
+      titleEn: "Internet and protocols"
       number: "1"
       slug: lectures/introduction
       filename: Untitled
       dirname: untitled-lecture
-      description: "Röda tråden till C#-kursen. OOP."
+      description: "Vad är internet och hur funkar det"
       start-full: 20210419T094500
       end-full: 20210419T110000
     - activity: standup
-      title: "Samling och slut på dag"
+      title: "Avslutning på dagen"
       titleEn: "Get together and end of day"
       slug: lectures/introduction
       description: "Är där frågor? Landing."
@@ -42,20 +42,19 @@ weeks:
     weekday: "Onsdag"
     activities:
     - activity: standup
-      title: "Sammanfattning från förra lektion "
+      title: "Återkoppling till Internet och protokoll"
       titleEn: "Get together and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210421T083000
       end-full: 20210421T090000
     - activity: lecture
-      title: "Enhetstest och clean code"
-      titleEn: "Unit test and clean code"
-      slug: lectures/cleancode
-      description: "Hur kan vi automatisk verificera vår kod och skriva kod som är enklare att läsa"
+      title: "Services och utvecklingsmiljö med Docker"
+      titleEn: "Servers and development enviroment using Docker"
+      slug: lectures/docker
+      description: "Hur kan vi skåpa med utvecklingsmiljö med docker och få dom att köra"
       start-full: 20210421T090000
       end-full: 20210421T094500
       number: "2"
-      discussion: https://github.com/PGBSNH20/PGBSNH20-dataatkomst/discussions/6
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
@@ -82,14 +81,13 @@ weeks:
       start-full: 20210426T083000
       end-full: 20210426T090000
     - activity: lecture
-      title: "Trådning med C#"
-      titleEn: "Threading with C#"
-      slug: lectures/threading
-      description: "Trådar på datorer handlar om att få två sakar att hända samtidigt"
+      title: "ASP.NET Core introduktion"
+      titleEn: "ASP.NET Core introduction"
+      slug: lectures/aspnetcore
+      description: "Vad är ASP.NET Core och hur kan vi bygga en simpel applikation"
       start-full: 20210426T090000
       end-full: 20210426T094500
       number: "3"
-      discussion: https://github.com/PGBSNH20/PGBSNH20-dataatkomst/discussions/8
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
@@ -109,11 +107,11 @@ weeks:
       start-full: 20210428T083000
       end-full: 20210428T090000
     - activity: lecture
-      title: "ORM och tasks"
-      titleEn: "ORM and tasks"
+      title: "REST APIer"
+      titleEn: "REST APIs"
       number: "4"
-      slug: lectures/ormtask
-      description: "Man använder ett ORM till automatisk att kopla data till objekter, vi titter på hur man kan göra det. Vi försätter med att titta på hur man kan jobba asynkront i C#, i nu med tasks"
+      slug: lectures/restapi
+      description: "Hur kan vi med ASP.NET Core bygga en REST applikation"
       start-full: 20210428T083000
       end-full: 20210428T093000
     - activity: standup
@@ -130,7 +128,7 @@ weeks:
     activities: null
 - week: 18
   year: 2021
-  description: Denna vecka går vi på gång att jobba med Entity Framework
+  description: Denna vecka går vi mer på djubet med ASP.NET Core och REST APIer
   days:
   - day: 2021-05-03
     weekday: "Måndag"
@@ -142,11 +140,11 @@ weeks:
       start-full: 20210503T083000
       end-full: 20210503T090000
     - activity: lecture
-      title: "Code first"
-      titleEn: "Introduction"
-      number: "6"
-      slug: lectures/codefirst
-      description: "En teknik vart man skåper en databas utifrån sin kod"
+      title: "Model binding"
+      titleEn: "Model binding"
+      number: "5"
+      slug: lectures/model-binding
+      description: "Hur kan vi kopla modeller til vår API anrop"
       start-full: 20210503T090000
       end-full: 20210503T093000
     - activity: standup
@@ -168,11 +166,11 @@ weeks:
       start-full: 20210505T083000
       end-full: 20210505T090000
     - activity: lecture
-      title: "Dataåtkomst med Entity Framework"
-      titleEn: "Introduction"
-      number: "7"
-      slug: lectures/dataaccess
-      description: "Dataåtkomst med Entity Framework"
+      title: "Säkerhet och Validering"
+      titleEn: "Security and validation"
+      number: "6"
+      slug: lectures/security-validation
+      description: "Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi komma runt många med validering"
       start-full: 20210505T090000
       end-full: 20210505T093000
     - activity: standup
@@ -189,7 +187,7 @@ weeks:
     lecture: null
 - week: 19
   year: 2021
-  description: Vi förstätter att jobba med Entity Framework
+  description: I denna vecka kommer vi att fokusera på hur
   days:
   - day: 2021-05-10
     weekday: "Måndag"
@@ -201,11 +199,11 @@ weeks:
       start-full: 20210322T083000
       end-full: 20210322T090000
     - activity: lecture
-      title: "Migrations och deployment"
-      titleEn: "Introduction"
+      title: "Middleware i ASP.NET Core"
+      titleEn: "Middleware in ASP.NET Core"
       number: "8"
-      slug: lectures/migration
-      description: "Migrations och deployment"
+      slug: lectures/middleware
+      description: "Vad är middelware? Hur kan vi bygga advancerat funktionaltet med middleware"
       start-full: 20210510T083000
       end-full: 20210510T095000
     - activity: standup
@@ -227,11 +225,11 @@ weeks:
       start-full: 20210512T083000
       end-full: 20210512T090000
     - activity: lecture
-      title: "DBContext och Transactions"
-      titleEn: "Introduction"
-      number: "9"
-      slug: lectures/dbcontext
-      description: "DBContext och Transactions"
+      title: "Routing"
+      titleEn: "Routing"
+      number: "8"
+      slug: lectures/routing
+      description: "Hur kan vi bygga customs routes i ASP.NET Core"
       start-full: 20210512T083000
       end-full: 20210512T093000
     - activity: standup
@@ -249,7 +247,7 @@ weeks:
     lecture: null
 - week: 20
   year: 2021
-  description: Vi går mer på djubet med enhetstest och börjar att jobba med dokument databaser
+  description: Vi går på gång med hur vi kan bygga webb applikationer
   days:
   - day: 2021-05-17
     weekday: "Måndag"
@@ -261,11 +259,11 @@ weeks:
       start-full: 20210517T083000
       end-full: 20210517T090000
     - activity: lecture
-      title: "Enhetstest med data"
-      titleEn: "Introduction"
-      number: "10"
-      slug: lectures/unittestdata
-      description: "Enhetstest med data"
+      title: "Razor pages"
+      titleEn: "Razor pages"
+      number: "11"
+      slug: lectures/razorpages
+      description: "Hur kan man generere en websida med Razor pages i ASP.NET Core"
       start-full: 20210517T090000
       end-full: 20210517T160000
     - activity: standup
@@ -287,11 +285,11 @@ weeks:
       start-full: 20210519T083000
       end-full: 20210519T090000
     - activity: lecture
-      title: "Datåtkomst och dokument databaser"
-      titleEn: "Introduction"
-      number: "11"
-      slug: lectures/documentdb
-      description: "Datåtkomst och dokument databaser"
+      title: "Statefull web"
+      titleEn: "Statefull web"
+      number: "10"
+      slug: lectures/statefullweb
+      description: "Hur kan vi gör webben som är stateless mer statefull"
       start-full: 20210519T090000
       end-full: 20210519T160000
     - activity: standup
@@ -314,19 +312,19 @@ weeks:
     weekday: "Måndag"
     activities:
     - activity: standup
-      title: "Återkopling från ORM och tasks"
+      title: "Återkopling från förra lektion"
       titleEn: "Get together and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210524T083000
       end-full: 20210524T090000
     - activity: lecture
-      title: "Databas först / Database first"
-      titleEn: "Database first"
-      slug: lectures/databasefirst
-      description: "En teknik vart man börja med att skåpa en databas, kanske man har en eksisterende (legacy) databas. Samt en introduktion till async och await."
+      title: "Tag helpers och authentisering"
+      titleEn: "Tag helpers och authentication"
+      description: "Hur kan vi smidigt binda data till vår applikatino och säkker ställa att det är rätt person som kommer åt appliaktionen"
+      slug: lectures/taghelpers
       start-full: 20210524T083000
       end-full: 20210524T093000
-      number: "5"
+      number: "11"
       discussion: https://github.com/PGBSNH20/PGBSNH20-dataatkomst/discussions/10
     - activity: standup
       title: "Sammanfattning på dagens lektion"
@@ -347,11 +345,11 @@ weeks:
       start-full: 20210526T083000
       end-full: 20210526T090000
     - activity: lecture
-      title: "Prestanda och optimering"
-      titleEn: "Introduction"
+      title: "Automatisk test"
+      titleEn: "Automatic testing"
       number: "12"
-      slug: lectures/performance
-      description: "Prestanda och optimering"
+      slug: lectures/testing
+      description: "Automatisk test av webbapplikationer"
       start-full: 20210526T090000
       end-full: 20210526T160000
     - activity: standup
@@ -380,10 +378,10 @@ weeks:
       start-full: 20210531T083000
       end-full: 20210531T090000
     - activity: lecture
-      title: "Datatjänster"
-      titleEn: "Introduction"
+      title: "Arkitektur"
+      titleEn: "Architecture"
       number: "13"
-      slug: lectures/dataservices
+      slug: lectures/architecture
       description: "Graphql"
       start-full: 20210531T090000
       end-full: 20210531T160000

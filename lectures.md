@@ -22,7 +22,7 @@ permalink: /lectures/
                                     {% for activity in day.activities %}
                                     {% if activity.activity == "lecture" %}
                                           <li class="list-group-item">
-                                                <i class="bi bi-chevron-double-right lec-icon"></i> <a href="{{ activity.slug | prepend: site.baseurl }}">{{ activity.title }}</a>
+                                                <i class="bi bi-chevron-double-right lec-icon"></i> {% if activity.number %}{{activity.number}} : {% endif %}<a href="{{ activity.slug | prepend: site.baseurl }}">{{ activity.title }}</a>
                                                 {% if activity.discussion %}<a href="{{activity.discussion}}"><i class="fa fa-comments" aria-hidden="true"></i></a><br>{% endif %}
                                                 <p class="description"> {{ activity.description }}</p>
                                           </li>
