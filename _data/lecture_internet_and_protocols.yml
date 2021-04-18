@@ -9,11 +9,13 @@ optionalLitterateur:
   totalAudioTime: 0
 notInTopic:
   literature:
-  - title: "networking-zine.pdf"
+  - title: "Networking! Ack!"
     url: https://jvns.ca/networking-zine.pdf
     timeType: Comic
     timeMinutes: 10
     timeBadge: info
+    description: >
+      A computer networking zine!
   - title: "The Basic Types of Network Protocols Explained"
     url: https://www.lifewire.com/definition-of-protocol-network-817949
     timeType: Article
