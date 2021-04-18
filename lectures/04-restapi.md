@@ -14,6 +14,7 @@ Hur kan vi med ASP.NET Core bygga ett REST API? Och kontrollera sökvägen i en 
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+{% include lecturenontopics.html lectureData="lecture_rest_apis_and_routing" %}
 {% include lecturetopics.html lectureData="lecture_rest_apis_and_routing" %}
 
 ## Uppgifter

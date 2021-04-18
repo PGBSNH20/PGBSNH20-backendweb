@@ -14,6 +14,7 @@ Vad är states? Hur kan vi säkerställa att applikation kommer ihåg data imell
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+{% include lecturenontopics.html lectureData="lecture_statefull_websites" %}
 {% include lecturetopics.html lectureData="lecture_statefull_websites" %}
 
 ## Uppgifter

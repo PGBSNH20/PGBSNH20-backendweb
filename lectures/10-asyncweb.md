@@ -16,6 +16,7 @@ Introduktion till SignalR
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+{% include lecturenontopics.html lectureData="lecture_async_webapplication" %}
 {% include lecturetopics.html lectureData="lecture_async_webapplication" %}
 
 ## Uppgifter

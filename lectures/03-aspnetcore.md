@@ -14,6 +14,7 @@ Vad är ASP.NET Core och hur kan vi bygga en simpel applikation
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+{% include lecturenontopics.html lectureData="lecture_asp_net_core_introduction" %}
 {% include lecturetopics.html lectureData="lecture_asp_net_core_introduction" %}
 
 ## Uppgifter

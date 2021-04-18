@@ -14,6 +14,7 @@ Hur kan vi smidigt binda data till vår applikation och säkerställa att det ä
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+{% include lecturenontopics.html lectureData="lecture_authentication_and_internationalization" %}
 {% include lecturetopics.html lectureData="lecture_authentication_and_internationalization" %}
 
 ## Uppgifter
