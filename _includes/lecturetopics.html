@@ -1,3 +1,4 @@
+{% if site.data[include.lectureData].topics.literature or site.data[include.lectureData].topics.optionalLiterature %}
 <div class="accordion" id="accordionExample">
     {% for topic in site.data[include.lectureData].topics %}
     <div class="card">
@@ -12,6 +13,7 @@
         <div id="ex{{forloop.index0}}" class="collapse show" aria-labelledby="headingOne"
             data-parent="#accordionExample">
             <div class="card-body">
+                {% if topic.literature %}
                 <ul>
                     {% for mandatory in topic.literature %}
                     <li class="mb-3">
@@ -24,6 +26,7 @@
                     </li>
                     {% endfor %}
                 </ul>
+                {% endif %}
                 {% if topic.optionalLiterature %}
                 <details>
                     <summary>Frivillig fördjupningslitteratur innom {{topic.topic}} (klicka för att visa)</summary>
@@ -47,3 +50,4 @@
 
     {% endfor %}
 </div>
+{% endif %}

@@ -1,8 +1,10 @@
+{% if site.data[include.lectureData].notInTopic.literature or site.data[include.lectureData].notInTopic.optionalLiterature %}
 <div class="accordion" id="accordionExample">
     <div class="card">
         <div id="ex{{forloop.index0}}" class="collapse show" aria-labelledby="headingOne"
             data-parent="#accordionExample">
             <div class="card-body">
+                {% if site.data[include.lectureData].notInTopic.literature %}
                 <ul>
                     {% for mandatory in site.data[include.lectureData].notInTopic.literature %}
                     <li class="mb-3">
@@ -15,9 +17,10 @@
                     </li>
                     {% endfor %}
                 </ul>
-                {% if topic.optionalLiterature %}
+                {% endif %}
+                {% if site.data[include.lectureData].notInTopic.optionalLiterature %}
                 <details>
-                    <summary>Frivillig fördjupningslitteratur innom {{topic.topic}} (klicka för att visa)</summary>
+                    <summary>Frivillig fördjupningslitteratur innom {{site.data[include.lectureData].notInTopic.optionalLiterature.topic}} (klicka för att visa)</summary>
                     <ul>
                         {% for optional in site.data[include.lectureData].notInTopic.optionalLiterature %}
                         <li class="mb-4">
@@ -37,3 +40,4 @@
     </div>
 
 </div>
+{% endif %}
