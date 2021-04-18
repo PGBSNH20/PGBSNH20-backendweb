@@ -1,0 +1,22 @@
+---
+litterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+optionalLitterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+notInTopic:
+  optionalLiterature:
+  - title: "Exploring the new project file, Program.cs, and the generic host: Exploring ASP.NET Core 3.0 - Part 1"
+    url: https://andrewlock.net/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/
+    timeType: Article
+    timeMinutes: 7
+    timeBadge: info
+  - title: ".NET Generic Host in ASP.NET Core"
+    url: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1
+    timeType: Article
+    timeMinutes: 32
+    timeBadge: info
+topics:

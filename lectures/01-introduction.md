@@ -15,6 +15,6 @@ Vad är internet och hur funkar det?
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-{% include lecturetopics.html lectureData="lecture_csharp_refresh" %}
+{% include lecturetopics.html lectureData="lecture_asp_net_core_introduction" %}
 
 ## Uppgifter

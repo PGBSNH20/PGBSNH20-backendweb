@@ -1,0 +1,17 @@
+---
+litterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+optionalLitterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+notInTopic:
+  optionalLiterature:
+  - title: "What happens when you type a URL in the web browser and press Enter? Computer Stuff #18 - YouTube"
+    url: https://www.youtube.com/watch?v=vvpCnjyjTuU
+    timeType: Video
+    timeMinutes: 28
+    timeBadge: danger
+topics:
