@@ -1,4 +1,4 @@
-{% if site.data[include.lectureData].topics.literature or site.data[include.lectureData].topics.optionalLiterature %}
+{% if site.data[include.lectureData].topics %}
 <div class="accordion" id="accordionExample">
     {% for topic in site.data[include.lectureData].topics %}
     <div class="card">
