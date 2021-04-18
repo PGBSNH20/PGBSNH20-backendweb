@@ -51,7 +51,7 @@ weeks:
       title: "Servere och utvecklingsmiljö med Docker"
       titleEn: "Servers and development enviroment using Docker"
       slug: lectures/docker
-      description: "Hur kan vi skåpa med utvecklingsmiljö med docker och få dom att köra"
+      description: "Hur kan vi skåpa med utvecklingsmiljö med docker och få dom att köra?"
       start-full: 20210421T090000
       end-full: 20210421T094500
       number: "2"
@@ -84,7 +84,7 @@ weeks:
       title: "ASP.NET Core introduktion"
       titleEn: "ASP.NET Core introduction"
       slug: lectures/aspnetcore
-      description: "Vad är ASP.NET Core och hur kan vi bygga en simpel applikation"
+      description: "Vad är ASP.NET Core och hur kan vi bygga en simpel applikation?"
       start-full: 20210426T090000
       end-full: 20210426T094500
       number: "3"
@@ -107,7 +107,7 @@ weeks:
       start-full: 20210428T083000
       end-full: 20210428T090000
     - activity: lecture
-      title: "REST APIer och Routing"
+      title: "REST APIer och routing"
       titleEn: "REST APIs and routing"
       number: "4"
       slug: lectures/restapi
@@ -144,7 +144,7 @@ weeks:
       titleEn: "Model binding"
       number: "5"
       slug: lectures/model-binding
-      description: "Hur kan vi kopla vår modeller till web förfrågningar"
+      description: "Hur kan vi kopla vår modeller till web förfrågningar?"
       start-full: 20210503T090000
       end-full: 20210503T093000
     - activity: standup
@@ -163,22 +163,22 @@ weeks:
       title: "Återkopling från förra lektion"
       titleEn: "Get together and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
-      start-full: 20210505T083000
-      end-full: 20210505T090000
+      start-full: 20210509T083000
+      end-full: 20210509T090000
     - activity: lecture
       title: "Säkerhet och validering"
       titleEn: "Security and validation"
       number: "6"
       slug: lectures/security-validation
-      description: "Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi lösa dom flesta med validering"
+      description: "Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi lösa dom flesta med validering?"
       start-full: 20210505T090000
       end-full: 20210505T093000
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
       description: "Är där frågor? Landing."
-      start-full: 20210505T160000
-      end-full: 20210505T163000
+      start-full: 20210509T160000
+      end-full: 20210509T163000
   - day: 2021-05-06
     weekday: "Torsdag"
     lecture: null
@@ -196,14 +196,14 @@ weeks:
       title: "Återkopling från förra lektion"
       titleEn: "Get together and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
-      start-full: 20210322T083000
-      end-full: 20210322T090000
+      start-full: 20210510T083000
+      end-full: 20210510T090000
     - activity: lecture
       title: "Middleware i ASP.NET Core"
       titleEn: "Middleware in ASP.NET Core"
       number: "7"
       slug: lectures/middleware
-      description: "Vad är middelware? Hur kan vi bygga advancerat funktionaltet med hjälp från middleware"
+      description: "Vad är middelware? Hur kan vi bygga advancerat funktionaltet med hjälp från middleware?"
       start-full: 20210510T083000
       end-full: 20210510T095000
     - activity: standup
@@ -228,8 +228,8 @@ weeks:
       title: "Razor pages och tag helpers"
       titleEn: "Razor pages and tag helpers"
       number: "8"
-      slug: lectures/routing
-      description: "Hur kan man generere en websida med Razor pages i ASP.NET Core"
+      slug: lectures/razor-pages
+      description: "Hur kan man generere en webbsida med Razor pages i ASP.NET Core?"
       start-full: 20210512T083000
       end-full: 20210512T093000
     - activity: standup
@@ -263,7 +263,7 @@ weeks:
       titleEn: "Statefull web"
       number: "09"
       slug: lectures/statefullweb
-      description: ""
+      description: "Vad är states? Hur kan vi säkerställa att applikation kommer ihåg data?"
       start-full: 20210517T090000
       end-full: 20210517T160000
     - activity: standup
@@ -288,8 +288,8 @@ weeks:
       title: "Async webbapplikation"
       titleEn: "Async webapplication"
       number: "10"
-      slug: lectures/statefullweb
-      description: "Hur kan vi gör webben som är stateless mer statefull"
+      slug: lectures/asyncweb
+      description: "Hur kan vi bygga en applikation som gir respons direkt?"
       start-full: 20210519T090000
       end-full: 20210519T160000
     - activity: standup
@@ -320,12 +320,11 @@ weeks:
     - activity: lecture
       title: "Tag helpers och authentisering"
       titleEn: "Tag helpers och authentication"
-      description: "Hur kan vi smidigt binda data till vår applikatino och säkker ställa att det är rätt person som kommer åt appliaktionen"
-      slug: lectures/taghelpers
+      description: "Hur kan vi smidigt binda data till vår applikation och säkerställa att det är rätt person som kommer åt appliaktionen?"
+      slug: lectures/taghelpers-aaa
       start-full: 20210524T083000
       end-full: 20210524T093000
       number: "11"
-      discussion: https://github.com/PGBSNH20/PGBSNH20-dataatkomst/discussions/10
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
@@ -349,7 +348,7 @@ weeks:
       titleEn: "Automatic testing"
       number: "12"
       slug: lectures/testing
-      description: "Automatisk test av webbapplikationer"
+      description: "Hur kan vi automatisk testa vår webbapplikationer?"
       start-full: 20210526T090000
       end-full: 20210526T160000
     - activity: standup
@@ -382,7 +381,7 @@ weeks:
       titleEn: "Architecture"
       number: "13"
       slug: lectures/architecture
-      description: "Graphql"
+      description: "Hvad ska vi tänka på när vi bygger arkitekturen till vår webbapplikation?"
       start-full: 20210531T090000
       end-full: 20210531T160000
     - activity: standup
@@ -404,11 +403,11 @@ weeks:
       start-full: 20210602T083000
       end-full: 20210602T090000
     - activity: lecture
-      title: "Ask Almost Anything"
-      titleEn: "Introduction"
-      number: "A1"
-      slug: aaa/1
-      description: "TBA"
+      title: "Sammanfatning på kurs"
+      titleEn: "Wrap up on course"
+      number: "14"
+      slug: lectures/wrapup
+      description: "Vad har vi lärt oss under som senaste 13 lektioner?"
       start-full: 20210602T083000
       end-full: 20210602T093000
   - day: 2021-06-03
@@ -418,8 +417,8 @@ weeks:
     weekday: "Fredag"
     activities:
     - activity: exam
-      title: "Tenta"
+      title: "Tenta uppgift"
       titleEn: "Exam"
-      description: "TBA"
+      description: ""
       start-full: 20210604T083000
       end-full: 20210604T093000

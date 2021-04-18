@@ -1,0 +1,19 @@
+---
+layout: lecture
+title: ASP.NET Core introduktion
+lectureDate: Måndag den 26:e April 2021
+permalink: /lectures/aspnetcore
+---
+
+Vad är ASP.NET Core och hur kan vi bygga en simpel applikation
+
+## Lektionsplan
+
+{% include lectureplan.html lectureWeek=0 lectureDay=0 lectureCaption="Lektion från kl. 8:30 till kl. 16:30" %}
+
+## Lektionslitteratur
+*Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
+
+{% include lecturetopics.html lectureData="lecture_csharp_refresh" %}
+
+## Uppgifter
