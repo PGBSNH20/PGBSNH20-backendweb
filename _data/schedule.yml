@@ -4,7 +4,7 @@ course:
 weeks:
 - week: 16
   year: 2021
-  description: During this week will we get up into gear with web development
+  description: Fundament för att förstå webbaplikationer
   days:
   - day: 2021-04-19
     weekday: "Måndag"
@@ -15,7 +15,7 @@ weeks:
       slug: lectures/introduction
       filename: Untitled
       dirname: untitled-lecture
-      description: "Start på denna kurs"
+      description: "Start på Webbutveckling backend"
       start-full: 20210419T083000
       end-full: 20210419T093000
     - activity: lecture
@@ -25,7 +25,7 @@ weeks:
       slug: lectures/introduction
       filename: Untitled
       dirname: untitled-lecture
-      description: "Vad är internet och hur funkar det"
+      description: "Vad är internet och hur funkar det?"
       start-full: 20210419T094500
       end-full: 20210419T110000
     - activity: standup
@@ -48,7 +48,7 @@ weeks:
       start-full: 20210421T083000
       end-full: 20210421T090000
     - activity: lecture
-      title: "Services och utvecklingsmiljö med Docker"
+      title: "Servere och utvecklingsmiljö med Docker"
       titleEn: "Servers and development enviroment using Docker"
       slug: lectures/docker
       description: "Hur kan vi skåpa med utvecklingsmiljö med docker och få dom att köra"
@@ -69,13 +69,13 @@ weeks:
     activities: null
 - week: 17
   year: 2021
-  description: Fokus på API utveckling
+  description: Start på ASP.NET Core
   days:
   - day: 2021-04-26
     weekday: "Måndag"
     activities:
     - activity: standup
-      title: "Återkopling från Clean Code"
+      title: "Återkopling till servere och Docker"
       titleEn: "Get together and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210426T083000
@@ -107,11 +107,11 @@ weeks:
       start-full: 20210428T083000
       end-full: 20210428T090000
     - activity: lecture
-      title: "REST APIer"
-      titleEn: "REST APIs"
+      title: "REST APIer och Routing"
+      titleEn: "REST APIs and routing"
       number: "4"
       slug: lectures/restapi
-      description: "Hur kan vi med ASP.NET Core bygga en REST applikation"
+      description: "Hur kan vi med ASP.NET Core bygga ett REST API? Och kontrollera sökvägen i en applikation"
       start-full: 20210428T083000
       end-full: 20210428T093000
     - activity: standup
@@ -128,7 +128,7 @@ weeks:
     activities: null
 - week: 18
   year: 2021
-  description: Denna vecka går vi mer på djubet med ASP.NET Core och REST APIer
+  description: Data och applikationsäkerhet
   days:
   - day: 2021-05-03
     weekday: "Måndag"
@@ -144,7 +144,7 @@ weeks:
       titleEn: "Model binding"
       number: "5"
       slug: lectures/model-binding
-      description: "Hur kan vi kopla modeller til vår API anrop"
+      description: "Hur kan vi kopla vår modeller till web förfrågningar"
       start-full: 20210503T090000
       end-full: 20210503T093000
     - activity: standup
@@ -166,11 +166,11 @@ weeks:
       start-full: 20210505T083000
       end-full: 20210505T090000
     - activity: lecture
-      title: "Säkerhet och Validering"
+      title: "Säkerhet och validering"
       titleEn: "Security and validation"
       number: "6"
       slug: lectures/security-validation
-      description: "Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi komma runt många med validering"
+      description: "Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi lösa dom flesta med validering"
       start-full: 20210505T090000
       end-full: 20210505T093000
     - activity: standup
@@ -187,7 +187,7 @@ weeks:
     lecture: null
 - week: 19
   year: 2021
-  description: I denna vecka kommer vi att fokusera på hur
+  description: Start på utveckling av websidor
   days:
   - day: 2021-05-10
     weekday: "Måndag"
@@ -201,9 +201,9 @@ weeks:
     - activity: lecture
       title: "Middleware i ASP.NET Core"
       titleEn: "Middleware in ASP.NET Core"
-      number: "8"
+      number: "7"
       slug: lectures/middleware
-      description: "Vad är middelware? Hur kan vi bygga advancerat funktionaltet med middleware"
+      description: "Vad är middelware? Hur kan vi bygga advancerat funktionaltet med hjälp från middleware"
       start-full: 20210510T083000
       end-full: 20210510T095000
     - activity: standup
@@ -225,11 +225,11 @@ weeks:
       start-full: 20210512T083000
       end-full: 20210512T090000
     - activity: lecture
-      title: "Routing"
-      titleEn: "Routing"
+      title: "Razor pages och tag helpers"
+      titleEn: "Razor pages and tag helpers"
       number: "8"
       slug: lectures/routing
-      description: "Hur kan vi bygga customs routes i ASP.NET Core"
+      description: "Hur kan man generere en websida med Razor pages i ASP.NET Core"
       start-full: 20210512T083000
       end-full: 20210512T093000
     - activity: standup
@@ -247,7 +247,7 @@ weeks:
     lecture: null
 - week: 20
   year: 2021
-  description: Vi går på gång med hur vi kan bygga webb applikationer
+  description: Levande webbaplikationer
   days:
   - day: 2021-05-17
     weekday: "Måndag"
@@ -259,11 +259,11 @@ weeks:
       start-full: 20210517T083000
       end-full: 20210517T090000
     - activity: lecture
-      title: "Razor pages"
-      titleEn: "Razor pages"
-      number: "11"
-      slug: lectures/razorpages
-      description: "Hur kan man generere en websida med Razor pages i ASP.NET Core"
+      title: "Statefull web"
+      titleEn: "Statefull web"
+      number: "09"
+      slug: lectures/statefullweb
+      description: ""
       start-full: 20210517T090000
       end-full: 20210517T160000
     - activity: standup
@@ -285,8 +285,8 @@ weeks:
       start-full: 20210519T083000
       end-full: 20210519T090000
     - activity: lecture
-      title: "Statefull web"
-      titleEn: "Statefull web"
+      title: "Async webbapplikation"
+      titleEn: "Async webapplication"
       number: "10"
       slug: lectures/statefullweb
       description: "Hur kan vi gör webben som är stateless mer statefull"
@@ -306,7 +306,7 @@ weeks:
     activities: null
 - week: 21
   year: 2021
-  description: Påsk vecka, vi titer på hur man kan optimera sin entity framework
+  description: Mer säkerhet och hur vi får applikationen tillgänglig för fler
   days:
   - day: 2021-05-24
     weekday: "Måndag"
@@ -366,7 +366,7 @@ weeks:
     activities: null
 - week: 22
   year: 2021
-  description: Förutom en röd tråd till webbackend, kommer vi denna vecka primär att avrunda denna kurs
+  description: Stora webbaplikationer och avslutning på kurs
   days:
   - day: 2021-05-31
     weekday: "Måndag"
