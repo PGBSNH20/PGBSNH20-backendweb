@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: Tag helpers och authentisering
+title: Authentisering och internationalisering
 lectureDate: Måndag den 24:e Maj 2021
-permalink: /lectures/taghelpers-aaa
+permalink: /lectures/aaa-i18n
 ---
 
 Hur kan vi smidigt binda data till vår applikation och säkerställa att det är rätt person som kommer åt appliaktionen?

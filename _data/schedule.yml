@@ -318,10 +318,10 @@ weeks:
       start-full: 20210524T083000
       end-full: 20210524T090000
     - activity: lecture
-      title: "Tag helpers och authentisering"
-      titleEn: "Tag helpers och authentication"
+      title: "Authentisering och internationalisering"
+      titleEn: "Authentication and internationalization"
       description: "Hur kan vi smidigt binda data till vår applikation och säkerställa att det är rätt person som kommer åt appliaktionen?"
-      slug: lectures/taghelpers-aaa
+      slug: lectures/aaa-i18n
       start-full: 20210524T083000
       end-full: 20210524T093000
       number: "11"
