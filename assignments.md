@@ -6,15 +6,23 @@ permalink: /assignments/
 
 # Uppgifter / Projekt
 
-Vi kommer under denna kurs att ha en rad med olika projekt:
+Vi kommer under denna kurs att ha två projekt, och vi känner igen den del av uppläget.
 
-## XXX
-* Mål: xxx
-* Uppgift: ccc
-* Deadline: 2021-04-20 (1 dagar)
-* Inlämning: Kod
-* Ej betygsgrundande
+## The Spaceport 2.0
+* Mål: Bygga ett REST api med ASP.NET Core
+* Uppgift: Bygg APIet till ett parkeringssystem till en spaceport (parkering i rymden)
+* Start: 2021-04-28
+* Deadline: 2021-05-07 (8 dagar)
+* Inlämning: Kod + dokumentation
+* Betygsgrundande: 10 poäng
 
+## The Ludo Game 2.0
+* Mål: Bygga en Razor Page applikation med ASP.NET Core, som i sin tur prater med ett REST API
+* Uppgift: Implementera ett fia spel, som kan spelas av upp till 4 spelare på (i princip) olika datorer
+* Start: 2021-05-12
+* Deadline: 2021-05-28 (12 dagar)
+* Inlämning: Kod + dokumentation + video presentation
+* Betygsgrundande: 15 poäng
 
 # Tenta
 
