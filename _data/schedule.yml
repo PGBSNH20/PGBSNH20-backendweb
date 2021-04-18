@@ -163,8 +163,8 @@ weeks:
       title: "Återkopling från förra lektion"
       titleEn: "Get together and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
-      start-full: 20210509T083000
-      end-full: 20210509T090000
+      start-full: 20210505T083000
+      end-full: 20210505T090000
     - activity: lecture
       title: "Säkerhet och validering"
       titleEn: "Security and validation"
@@ -177,8 +177,8 @@ weeks:
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
       description: "Är där frågor? Landing."
-      start-full: 20210509T160000
-      end-full: 20210509T163000
+      start-full: 20210505T160000
+      end-full: 20210505T163000
   - day: 2021-05-06
     weekday: "Torsdag"
     lecture: null
