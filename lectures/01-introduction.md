@@ -28,6 +28,10 @@ Detta är en förberedelse inför [lektion 2](/docker)
 
 Ni kan göra det tillsammans, men man måste göra det på var sin dator.
 
+### WSL 2
+
+Installera [WSL 2](https://docs.microsoft.com/da-dk/windows/wsl/install-win10) på din dator
+
 ### Docker
 
 Installera [Docker Desktop](https://www.docker.com/products/docker-desktop) på din dator
