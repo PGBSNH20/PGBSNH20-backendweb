@@ -34,7 +34,7 @@ Installera [Windows Subsystem for Linux 2](https://docs.microsoft.com/da-dk/wind
 
 Vad gäller instalation av Linux Distro rekomenderas [Unbuntu](https://wiki.ubuntu.com/WSL) 20 lts [Ubuntu från Microsoft Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6).
 
-* [How to set up a Windows 10 machine for Linux Development w/ WSL!](https://www.youtube.com/watch?v=j0PPcUUtHlw)
+* [How to set up a Windows 10 machine for Linux Development w/ WSL!](https://www.youtube.com/watch?v=j0PPcUUtHlw) - äldra video från start 2020, WSL 2 är ute, man behöver inte vara på Windows Insider
 * [Developing on Windows with WSL2](https://www.youtube.com/watch?v=A0eqZujVfYU)
 
 ### Docker
