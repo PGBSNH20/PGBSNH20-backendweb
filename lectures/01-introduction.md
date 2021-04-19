@@ -24,7 +24,7 @@ Se uppgift från classroom
 
 ## Individuell uppgift
 
-Detta är en förberedelse inför [lektion 2](/docker)
+Detta är en förberedelse inför [lektion 2]({{ "/lectures/docker" | prepend: site.baseurl }})
 
 Ni kan göra det tillsammans, men man måste göra det på var sin dator.
 
