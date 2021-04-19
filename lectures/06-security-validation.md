@@ -7,6 +7,8 @@ permalink: /lectures/security-validation
 
 Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi lösa dom flesta med validering?
 
+Vad är HTTPS och SSL?
+
 ## Lektionsplan
 
 {% include lectureplan.html lectureWeek=2 lectureDay=2 lectureCaption="Lektion från kl. 8:30 till kl. 16:30" %}
