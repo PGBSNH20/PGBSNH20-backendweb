@@ -7,4 +7,10 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  optionalLiterature:
+  - title: "Tredjepartscookies – vad är det och hur påverkar det dig?"
+    url: https://internetstiftelsen.se/nyheter/tredjepartscookies-vad-ar-det-och-hur-paverkar-det-dig/
+    description: >
+      År 2022 slutar Google stödja så kallade tredjepartscookies i Chrome. Hur påverkar det dig? Läs om varför och hur tredjepartskakor funkar.
 topics:
