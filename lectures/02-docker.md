@@ -1,11 +1,15 @@
 ---
 layout: lecture
-title: Servere och utvecklingsmiljö med Docker
+title: Servrar och utvecklingsmiljö
 lectureDate: Onsdag den 21:e April 2021
 permalink: /lectures/docker
 ---
 
-Hur kan vi skåpa med utvecklingsmiljö med docker och få dom att köra
+Vilka verktyg är det vi behöver som webbutvecklare?
+
+Hur får vi enkelt vår miljö upp att köra? Hur kan Docker hjälpa oss med detta?
+
+Hur kommer man på gång med Linux?
 
 ## Lektionsplan
 

@@ -48,8 +48,8 @@ weeks:
       start-full: 20210421T083000
       end-full: 20210421T090000
     - activity: lecture
-      title: "Servere och utvecklingsmiljö med Docker"
-      titleEn: "Servers and development enviroment using Docker"
+      title: "Servrar och utvecklingsmiljö"
+      titleEn: "Servers and development enviroment"
       slug: lectures/docker
       description: "Hur kan vi skåpa med utvecklingsmiljö med docker och få dom att köra?"
       start-full: 20210421T090000
