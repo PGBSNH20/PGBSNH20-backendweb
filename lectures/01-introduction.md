@@ -33,6 +33,7 @@ Ni kan göra det tillsammans, men man måste göra det på var sin dator.
 Installera [WSL 2](https://docs.microsoft.com/da-dk/windows/wsl/install-win10) på din dator.
 
 * [How to set up a Windows 10 machine for Linux Development w/ WSL!](https://www.youtube.com/watch?v=j0PPcUUtHlw)
+* [Developing on Windows with WSL2](https://www.youtube.com/watch?v=A0eqZujVfYU)
 
 ### Docker
 
