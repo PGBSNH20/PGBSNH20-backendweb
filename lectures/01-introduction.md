@@ -28,14 +28,16 @@ Detta är en förberedelse inför [lektion 2: Servrar och utvecklingsmiljö]({{ 
 
 Ni kan göra det tillsammans, men man måste göra det på var sin dator.
 
-### WSL 2
+### Windows Subsystem for Linux
 
-Installera [WSL 2](https://docs.microsoft.com/da-dk/windows/wsl/install-win10) på din dator.
+Installera [Windows Subsystem for Linux 2](https://docs.microsoft.com/da-dk/windows/wsl/install-win10) på din dator. Där finns en version 1 och version 2. Se till at få aktiveret version 2.
+
+Vad gäller instalation av Linux Distro rekomenderas [Unbuntu](https://wiki.ubuntu.com/WSL) 20 lts [Ubuntu från Microsoft Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6).
 
 * [How to set up a Windows 10 machine for Linux Development w/ WSL!](https://www.youtube.com/watch?v=j0PPcUUtHlw)
 * [Developing on Windows with WSL2](https://www.youtube.com/watch?v=A0eqZujVfYU)
 
 ### Docker
 
-Installera [Docker Desktop](https://www.docker.com/products/docker-desktop) på din dator
+Installera [Docker Desktop](https://www.docker.com/products/docker-desktop) på din dator. Det krävs WSL 2 för att Docker fungera på Windows.
 
