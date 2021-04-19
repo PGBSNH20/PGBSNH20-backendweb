@@ -18,4 +18,17 @@ Vad är internet och hur funkar det?
 {% include lecturenontopics.html lectureData="lecture_internet_and_protocols" %}
 {% include lecturetopics.html lectureData="lecture_internet_and_protocols" %}
 
-## Uppgifter
+## Övning med buddy
+
+Se uppgift från classroom
+
+## Individuell uppgift
+
+Detta är en förberedelse inför [lektion 2](/docker)
+
+Ni kan göra det tillsammans, men man måste göra det på var sin dator.
+
+### Docker
+
+Installera [Docker Desktop](https://www.docker.com/products/docker-desktop) på din dator
+
