@@ -9,6 +9,9 @@
                     <h4 id="object-oriented-programming-and-c">{{topic.topic}}</h4>
                 </button>
             </h2>
+            {% if topic.description-include %}
+            <p>{% include descriptions/{{topic.description-include}}  %}</p>
+            {% endif %}
         </div>
         <div id="ex{{forloop.index0}}" class="collapse show" aria-labelledby="headingOne"
             data-parent="#accordionExample">
