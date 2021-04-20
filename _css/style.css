@@ -155,7 +155,8 @@
     max-height: 450px;
     min-height: 305px
   }
-  
+
+
   .lectures-card .card-header h4{
     color: var(--main);
   }
@@ -233,10 +234,14 @@
     text-decoration: none;
       box-shadow: none;
   }
+  
   .accordion .card .card-header h2{
       border:none;
   }
   
+  .accordion .card-header p{
+    margin-left: 0.8rem;
+  }
   
   summary {
       display: list-item;

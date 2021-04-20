@@ -34,6 +34,7 @@ notInTopic:
     timeBadge: danger
 topics:
   - topic: "HTTP"
+    description-include: http.md
     literature:
     - title: "Introduction to HTTP/2"
       url: https://developers.google.com/web/fundamentals/performance/http2/
@@ -67,6 +68,7 @@ topics:
       timeMinutes: 480
       timeBadge: info
   - topic: "DNS"
+    description-include: dns.md
     literature:
     - title: "What is a Domain Name?"
       url: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
@@ -87,6 +89,7 @@ topics:
       timeMinutes: 23
       timeBadge: info
   - topic: "TCP/IP"
+    description-include: tcp_ip.md
     literature:
     - title: "TCP/IP Introduction"
       url: https://en.wikiversity.org/wiki/Network%2B/Standards/TCP/IP_Model/Introduction

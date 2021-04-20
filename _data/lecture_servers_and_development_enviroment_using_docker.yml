@@ -24,6 +24,7 @@ notInTopic:
       Scott Hanselman sits down with GitHub's Iheanyi Ekechukwu who is frustrated with his Windows computer. He's Linux/Mac person for years, vim, tmux, all that, ...
 topics:
   - topic: "Docker"
+    description-include: docker.md
     literature:
     - title: "What is Docker, Why use it?"
       url: https://www.youtube.com/watch?v=vmnvOITMoIg&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P
@@ -60,6 +61,7 @@ topics:
         Length: x
         Collection of Docker toturials
   - topic: "Containers"
+    description-include: containers.md
     literature:
     - title: "WTF is a container?"
       url: https://techcrunch.com/2016/10/16/wtf-is-a-container/
