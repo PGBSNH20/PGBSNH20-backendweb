@@ -21,4 +21,6 @@ Hur kommer man på gång med Linux?
 {% include lecturenontopics.html lectureData="lecture_servers_and_development_enviroment_using_docker" %}
 {% include lecturetopics.html lectureData="lecture_servers_and_development_enviroment_using_docker" %}
 
-## Uppgifter
+## Övning med buddy
+
+Se uppgift från classroom
