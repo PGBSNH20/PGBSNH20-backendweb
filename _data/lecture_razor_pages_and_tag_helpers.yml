@@ -7,4 +7,14 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "ASP.NET Core built-in Tag Helpers - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/?view=aspnetcore-5.0
+  - title: "Razor syntax reference for ASP.NET Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0
+  - title: "Introduction to Razor Pages in ASP.NET Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio
 topics:
+  - topic: "MVC"
+    description-include: mvc.md

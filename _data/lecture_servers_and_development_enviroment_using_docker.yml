@@ -46,6 +46,8 @@ topics:
       timeMinutes: 12
       timeBadge: info
     optionalLiterature:
+    - title: "Introduction to Containerization Using Docker"
+      url: https://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Docker
     - title: "Virtual Machines vs Docker Containers - Dive Into Docker - YouTube"
       url: https://www.youtube.com/watch?v=TvnZTi_gaNc
       timeType: Video
@@ -53,12 +55,9 @@ topics:
       timeBadge: danger
     - title: "A Docker Tutorial for Beginners"
       url: https://docker-curriculum.com/
-      description: >
-        Length: x
     - title: "21 Days of Docker"
       url: https://github.com/100daysofdevops/21_Days_of_Docker
       description: >
-        Length: x
         Collection of Docker toturials
   - topic: "Containers"
     description-include: containers.md
