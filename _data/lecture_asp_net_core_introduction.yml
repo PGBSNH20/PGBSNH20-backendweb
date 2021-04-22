@@ -20,27 +20,6 @@ notInTopic:
     timeMinutes: 32
     timeBadge: info
 topics:
-  - topic: "Dependency injection"
-    description-include: dependency_injection.md
-    literature:
-    - title: "A quick intro to Dependency Injection: what it is, and when to use it"
-      url: https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/
-    - title: "Dependency injection in ASP.NET Core - Microsoft Docs"
-      url: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0
-      timeType: Article
-      timeMinutes: 36
-      timeBadge: info
-    optionalLiterature:
-    - title: "Deep Dive into Dependency Injection and Writing Decoupled Quality Code and Testable Software"
-      url: https://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DEV-B412
-      timeType: Video
-      timeMinutes: 87
-      timeBadge: danger
-    - title: "ASP.NET Core Dependency Injection Deep Dive - Joonas W's blog"
-      url: https://joonasw.net/view/aspnet-core-di-deep-dive
-      timeType: Article
-      timeMinutes: 12
-      timeBadge: info
   - topic: "ASP.NET Core"
     description-include: asp_net_core.md
     literature:
@@ -80,3 +59,24 @@ topics:
       timeType: Video
       timeMinutes: 60
       timeBadge: danger
+  - topic: "Dependency injection"
+    description-include: dependency_injection.md
+    literature:
+    - title: "A quick intro to Dependency Injection: what it is, and when to use it"
+      url: https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/
+    - title: "Dependency injection in ASP.NET Core - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0
+      timeType: Article
+      timeMinutes: 36
+      timeBadge: info
+    optionalLiterature:
+    - title: "Deep Dive into Dependency Injection and Writing Decoupled Quality Code and Testable Software"
+      url: https://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DEV-B412
+      timeType: Video
+      timeMinutes: 87
+      timeBadge: danger
+    - title: "ASP.NET Core Dependency Injection Deep Dive - Joonas W's blog"
+      url: https://joonasw.net/view/aspnet-core-di-deep-dive
+      timeType: Article
+      timeMinutes: 12
+      timeBadge: info

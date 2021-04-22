@@ -33,6 +33,56 @@ notInTopic:
     timeMinutes: 28
     timeBadge: danger
 topics:
+  - topic: "TCP/IP"
+    description-include: tcp_ip.md
+    literature:
+    - title: "TCP/IP Introduction"
+      url: https://en.wikiversity.org/wiki/Network%2B/Standards/TCP/IP_Model/Introduction
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
+    - title: "Introduction to TCP/IP Reference Model"
+      url: https://www.studytonight.com/computer-networks/tcp-ip-reference-model
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
+    optionalLiterature:
+    - title: "Ports and Processes! What Process has that Port open?"
+      url: https://www.youtube.com/watch?v=4P0KXWC3V0U
+      timeType: Video
+      timeMinutes: 19
+      timeBadge: danger
+    - title: "State of the Internet IPv6 Adoption Visualization"
+      url: https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp
+      timeType: Article
+      timeMinutes: 2
+      timeBadge: info
+    - title: "Difference Between IPv4 and IPv6 (with Comparison Chart)"
+      url: https://techdifferences.com/difference-between-ipv4-and-ipv6.html
+      timeType: Article
+      timeMinutes: 7
+      timeBadge: info
+  - topic: "DNS"
+    description-include: dns.md
+    literature:
+    - title: "What is a Domain Name?"
+      url: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
+      timeType: Article
+      timeMinutes: 6
+      timeBadge: info
+    optionalLiterature:
+    - title: "What is DNS? Introduction to Domain Name System."
+      url: https://www.youtube.com/watch?v=dl-C6cBoRg4
+      timeType: Video
+      timeMinutes: 31
+      timeBadge: danger
+      description: >
+        This video shows you practical examples of DNS in real time and includes Wireshark captures showing you actual DNS query and answer messages
+    - title: "An Introduction to DNS Terminology, Components, and Concepts"
+      url: https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts
+      timeType: Article
+      timeMinutes: 23
+      timeBadge: info
   - topic: "HTTP"
     description-include: http.md
     literature:
@@ -66,54 +116,4 @@ topics:
       url: https://tools.ietf.org/html/rfc2616
       timeType: Specification
       timeMinutes: 480
-      timeBadge: info
-  - topic: "DNS"
-    description-include: dns.md
-    literature:
-    - title: "What is a Domain Name?"
-      url: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
-      timeType: Article
-      timeMinutes: 6
-      timeBadge: info
-    optionalLiterature:
-    - title: "What is DNS? Introduction to Domain Name System."
-      url: https://www.youtube.com/watch?v=dl-C6cBoRg4
-      timeType: Video
-      timeMinutes: 31
-      timeBadge: danger
-      description: >
-        This video shows you practical examples of DNS in real time and includes Wireshark captures showing you actual DNS query and answer messages
-    - title: "An Introduction to DNS Terminology, Components, and Concepts"
-      url: https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts
-      timeType: Article
-      timeMinutes: 23
-      timeBadge: info
-  - topic: "TCP/IP"
-    description-include: tcp_ip.md
-    literature:
-    - title: "TCP/IP Introduction"
-      url: https://en.wikiversity.org/wiki/Network%2B/Standards/TCP/IP_Model/Introduction
-      timeType: Article
-      timeMinutes: 4
-      timeBadge: info
-    - title: "Introduction to TCP/IP Reference Model"
-      url: https://www.studytonight.com/computer-networks/tcp-ip-reference-model
-      timeType: Article
-      timeMinutes: 4
-      timeBadge: info
-    optionalLiterature:
-    - title: "Ports and Processes! What Process has that Port open?"
-      url: https://www.youtube.com/watch?v=4P0KXWC3V0U
-      timeType: Video
-      timeMinutes: 19
-      timeBadge: danger
-    - title: "State of the Internet IPv6 Adoption Visualization"
-      url: https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp
-      timeType: Article
-      timeMinutes: 2
-      timeBadge: info
-    - title: "Difference Between IPv4 and IPv6 (with Comparison Chart)"
-      url: https://techdifferences.com/difference-between-ipv4-and-ipv6.html
-      timeType: Article
-      timeMinutes: 7
       timeBadge: info

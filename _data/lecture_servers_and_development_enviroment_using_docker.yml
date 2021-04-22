@@ -23,6 +23,35 @@ notInTopic:
     description: >
       Scott Hanselman sits down with GitHub's Iheanyi Ekechukwu who is frustrated with his Windows computer. He's Linux/Mac person for years, vim, tmux, all that, ...
 topics:
+  - topic: "Containers"
+    description-include: containers.md
+    literature:
+    - title: "WTF is a container?"
+      url: https://techcrunch.com/2016/10/16/wtf-is-a-container/
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
+    - title: "Why you should care about containers"
+      url: https://www.youtube.com/watch?v=EUitQ8DaZW8
+      timeType: Video
+      timeMinutes: 7
+      timeBadge: danger
+    optionalLiterature:
+    - title: "OS-level virtualization"
+      url: https://en.wikipedia.org/wiki/OS-level_virtualization
+      timeType: Article
+      timeMinutes: 5
+      timeBadge: info
+    - title: "5 Container Alternatives to Docker"
+      url: https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
+    - title: "Containers? So What? Docker 101 Explained"
+      url: https://www.youtube.com/watch?v=0oEsMwSxBsk
+      timeType: Video
+      timeMinutes: 31
+      timeBadge: danger
   - topic: "Docker"
     description-include: docker.md
     literature:
@@ -59,32 +88,3 @@ topics:
       url: https://github.com/100daysofdevops/21_Days_of_Docker
       description: >
         Collection of Docker toturials
-  - topic: "Containers"
-    description-include: containers.md
-    literature:
-    - title: "WTF is a container?"
-      url: https://techcrunch.com/2016/10/16/wtf-is-a-container/
-      timeType: Article
-      timeMinutes: 4
-      timeBadge: info
-    - title: "Why you should care about containers"
-      url: https://www.youtube.com/watch?v=EUitQ8DaZW8
-      timeType: Video
-      timeMinutes: 7
-      timeBadge: danger
-    optionalLiterature:
-    - title: "OS-level virtualization"
-      url: https://en.wikipedia.org/wiki/OS-level_virtualization
-      timeType: Article
-      timeMinutes: 5
-      timeBadge: info
-    - title: "5 Container Alternatives to Docker"
-      url: https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/
-      timeType: Article
-      timeMinutes: 4
-      timeBadge: info
-    - title: "Containers? So What? Docker 101 Explained"
-      url: https://www.youtube.com/watch?v=0oEsMwSxBsk
-      timeType: Video
-      timeMinutes: 31
-      timeBadge: danger
