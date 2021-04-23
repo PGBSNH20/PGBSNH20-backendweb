@@ -1,12 +1,7 @@
 ---
-litterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
-optionalLitterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
+contentTimeTotal:
+  literatureTime: 0
+  optionalLiteratureTime: 0
 notInTopic:
   literature:
   - title: "ASP.NET Core built-in Tag Helpers - Microsoft Docs"
@@ -17,4 +12,6 @@ notInTopic:
     url: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio
 topics:
   - topic: "MVC"
+    literatureTime: 0
+    optionalLiteratureTime: 0
     description-include: mvc.md

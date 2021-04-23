@@ -1,14 +1,11 @@
 ---
-litterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
-optionalLitterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
+contentTimeTotal:
+  literatureTime: 159
+  optionalLiteratureTime: 219
 topics:
   - topic: "ASP.NET Core"
+    literatureTime: 118
+    optionalLiteratureTime: 81
     description-include: asp_net_core.md
     literature:
     - title: "ASP.NET Core"
@@ -52,6 +49,8 @@ topics:
     - title: "ASP.NET Core Performance Best Practices"
       url: https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.1
   - topic: "Dependency injection"
+    literatureTime: 41
+    optionalLiteratureTime: 138
     description-include: dependency_injection.md
     literature:
     - title: "A quick intro to Dependency Injection: what it is, and when to use it"

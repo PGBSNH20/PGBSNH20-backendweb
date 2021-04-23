@@ -1,12 +1,7 @@
 ---
-litterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
-optionalLitterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
+contentTimeTotal:
+  literatureTime: 0
+  optionalLiteratureTime: 0
 notInTopic:
   optionalLiterature:
   - title: "Tredjepartscookies – vad är det och hur påverkar det dig?"

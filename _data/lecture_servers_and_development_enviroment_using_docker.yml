@@ -1,12 +1,7 @@
 ---
-litterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
-optionalLitterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
+contentTimeTotal:
+  literatureTime: 56
+  optionalLiteratureTime: 94
 notInTopic:
   literature:
   - title: "WSL2, Visual Studio Code, Windows 10, Ubuntu/Linux + more"
@@ -24,6 +19,8 @@ notInTopic:
       Scott Hanselman sits down with GitHub's Iheanyi Ekechukwu who is frustrated with his Windows computer. He's Linux/Mac person for years, vim, tmux, all that, ...
 topics:
   - topic: "Containers"
+    literatureTime: 11
+    optionalLiteratureTime: 40
     description-include: containers.md
     literature:
     - title: "WTF is a container?"
@@ -53,6 +50,8 @@ topics:
       timeMinutes: 31
       timeBadge: danger
   - topic: "Docker"
+    literatureTime: 27
+    optionalLiteratureTime: 9
     description-include: docker.md
     literature:
     - title: "What is Docker, Why use it?"

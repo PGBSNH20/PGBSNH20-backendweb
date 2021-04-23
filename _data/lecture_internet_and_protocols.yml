@@ -1,12 +1,7 @@
 ---
-litterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
-optionalLitterateur:
-  totalVideoTime: 0
-  totalTextTime: 0
-  totalAudioTime: 0
+contentTimeTotal:
+  literatureTime: 66
+  optionalLiteratureTime: 882
 notInTopic:
   literature:
   - title: "Networking! Ack!"
@@ -34,6 +29,8 @@ notInTopic:
     timeBadge: danger
 topics:
   - topic: "TCP/IP"
+    literatureTime: 8
+    optionalLiteratureTime: 28
     description-include: tcp_ip.md
     literature:
     - title: "TCP/IP Introduction"
@@ -63,6 +60,8 @@ topics:
       timeMinutes: 7
       timeBadge: info
   - topic: "DNS"
+    literatureTime: 6
+    optionalLiteratureTime: 54
     description-include: dns.md
     literature:
     - title: "What is a Domain Name?"
@@ -84,6 +83,8 @@ topics:
       timeMinutes: 23
       timeBadge: info
   - topic: "HTTP"
+    literatureTime: 36
+    optionalLiteratureTime: 772
     description-include: http.md
     literature:
     - title: "Introduction to HTTP/2"
