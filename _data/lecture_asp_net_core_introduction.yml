@@ -12,7 +12,7 @@ topics:
       url: https://github.com/dotnet/aspnetcore
       timeType: Repository
       timeMinutes: 0
-      timeBadge: light
+      timeBadge: dark
     - title: "ASP.NET Core fundamentals"
       url: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-5.0&tabs=windows
       timeType: Article

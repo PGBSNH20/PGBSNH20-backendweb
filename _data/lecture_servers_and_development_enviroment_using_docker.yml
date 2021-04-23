@@ -85,11 +85,11 @@ topics:
       url: https://docker-curriculum.com/
       timeType: Collection
       timeMinutes: 0
-      timeBadge: light
+      timeBadge: dark
     - title: "21 Days of Docker"
       url: https://github.com/100daysofdevops/21_Days_of_Docker
       timeType: Collection
       timeMinutes: 0
-      timeBadge: light
+      timeBadge: dark
       description: >
         Collection of Docker toturials
