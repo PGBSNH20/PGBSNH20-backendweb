@@ -2,4 +2,8 @@
 contentTimeTotal:
   literatureTime: 0
   optionalLiteratureTime: 0
+notInTopic:
+  optionalLiterature:
+  - title: "How to Build and Secure Web APIs with ASP.NET Core 3.0"
+    url: https://auth0.com/blog/how-to-build-and-secure-web-apis-with-aspnet-core-3/
 topics:

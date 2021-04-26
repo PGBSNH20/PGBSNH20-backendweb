@@ -10,6 +10,9 @@ notInTopic:
     url: https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0
   - title: "Introduction to Razor Pages in ASP.NET Core - Microsoft Docs"
     url: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio
+  optionalLiterature:
+  - title: "An introduction to ViewComponents - a login status view component"
+    url: https://andrewlock.net/an-introduction-to-viewcomponents-a-login-status-view-component/
 topics:
   - topic: "MVC"
     literatureTime: 0
