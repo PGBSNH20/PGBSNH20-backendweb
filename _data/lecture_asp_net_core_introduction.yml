@@ -2,6 +2,10 @@
 contentTimeTotal:
   literatureTime: 159
   optionalLiteratureTime: 236
+notInTopic:
+  literature:
+  - title: "What is Kestrel Web Server? How It Works, Benefits etc"
+    url: https://stackify.com/what-is-kestrel-web-server/
 topics:
   - topic: "ASP.NET Core"
     literatureTime: 118
