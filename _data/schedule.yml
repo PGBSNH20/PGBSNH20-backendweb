@@ -125,7 +125,27 @@ weeks:
     activities: null
   - day: 2021-04-30
     weekday: "Fredag"
-    activities: null
+    activities:
+    - activity: standup
+      title: "Återkopling från förra lektion"
+      titleEn: "Get together and start of day"
+      description: "Är där frågor sen förra lektion? Boarding card"
+      start-full: 20210430T083000
+      end-full: 20210430T090000
+    - activity: lecture
+      title: "Model binding"
+      titleEn: "Model binding"
+      number: "5"
+      slug: lectures/model-binding
+      description: "Hur kan vi kopla vår modeller till web förfrågningar?"
+      start-full: 20210430T090000
+      end-full: 20210430T093000
+    - activity: standup
+      title: "Sammanfattning på dagens lektion"
+      titleEn: "Summary of the lecture of the day"
+      description: "Är där frågor? Landing."
+      start-full: 20210430T160000
+      end-full: 20210430T163000
 - week: 18
   year: 2021
   description: Data och applikationsäkerhet
@@ -140,11 +160,11 @@ weeks:
       start-full: 20210503T083000
       end-full: 20210503T090000
     - activity: lecture
-      title: "Model binding"
-      titleEn: "Model binding"
-      number: "5"
-      slug: lectures/model-binding
-      description: "Hur kan vi kopla vår modeller till web förfrågningar?"
+      title: "Säkerhet och validering"
+      titleEn: "Security and validation"
+      number: "6"
+      slug: lectures/security-validation
+      description: "Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi lösa dom flesta med validering?"
       start-full: 20210503T090000
       end-full: 20210503T093000
     - activity: standup
@@ -166,13 +186,13 @@ weeks:
       start-full: 20210505T083000
       end-full: 20210505T090000
     - activity: lecture
-      title: "Säkerhet och validering"
-      titleEn: "Security and validation"
-      number: "6"
-      slug: lectures/security-validation
-      description: "Vilka säkerhetsriskar har vi en webbapplikation, och hur kan vi lösa dom flesta med validering?"
-      start-full: 20210505T090000
-      end-full: 20210505T093000
+      title: "Middleware i ASP.NET Core"
+      titleEn: "Middleware in ASP.NET Core"
+      number: "7"
+      slug: lectures/middleware
+      description: "Vad är middelware? Hur kan vi bygga advancerat funktionaltet med hjälp från middleware?"
+      start-full: 20210505T083000
+      end-full: 20210505T095000
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
@@ -191,7 +211,7 @@ weeks:
   days:
   - day: 2021-05-10
     weekday: "Måndag"
-    activities:
+    activities: 
     - activity: standup
       title: "Återkopling från förra lektion"
       titleEn: "Get together and start of day"
@@ -199,13 +219,13 @@ weeks:
       start-full: 20210510T083000
       end-full: 20210510T090000
     - activity: lecture
-      title: "Middleware i ASP.NET Core"
-      titleEn: "Middleware in ASP.NET Core"
-      number: "7"
-      slug: lectures/middleware
-      description: "Vad är middelware? Hur kan vi bygga advancerat funktionaltet med hjälp från middleware?"
+      title: "Razor pages och tag helpers"
+      titleEn: "Razor pages and tag helpers"
+      number: "8"
+      slug: lectures/razor-pages
+      description: "Hur kan man generere en webbsida med Razor pages i ASP.NET Core?"
       start-full: 20210510T083000
-      end-full: 20210510T095000
+      end-full: 20210510T093000
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
@@ -217,27 +237,7 @@ weeks:
     activities: null
   - day: 2021-05-12
     weekday: "Onsdag"
-    activities: 
-    - activity: standup
-      title: "Återkopling från förra lektion"
-      titleEn: "Get together and start of day"
-      description: "Är där frågor sen förra lektion? Boarding card"
-      start-full: 20210512T083000
-      end-full: 20210512T090000
-    - activity: lecture
-      title: "Razor pages och tag helpers"
-      titleEn: "Razor pages and tag helpers"
-      number: "8"
-      slug: lectures/razor-pages
-      description: "Hur kan man generere en webbsida med Razor pages i ASP.NET Core?"
-      start-full: 20210512T083000
-      end-full: 20210512T093000
-    - activity: standup
-      title: "Sammanfattning på dagens lektion"
-      titleEn: "Summary of the lecture of the day"
-      description: "Är där frågor? Landing."
-      start-full: 20210512T160000
-      end-full: 20210512T163000
+    activities: null
   - day: 2021-05-13
     weekday: "Torsdag"
     lecture: null
