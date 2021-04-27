@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Säkerhet och validering
-lectureDate: Onsdag den 9:e Maj 2021
+lectureDate: Måndag den 3:e Maj 2021
 permalink: /lectures/security-validation
 ---
 

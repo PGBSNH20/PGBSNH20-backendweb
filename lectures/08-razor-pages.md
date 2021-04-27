@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Razor pages och tag helpers
-lectureDate: Onsdag den 12:e Maj 2021
+lectureDate: Måndag den 10:e Maj 2021
 permalink: /lectures/razor-pages
 ---
 

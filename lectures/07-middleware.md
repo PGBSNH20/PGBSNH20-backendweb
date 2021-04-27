@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Middleware i ASP.NET Core
-lectureDate: Måndag den 10:e Maj 2021
+lectureDate: Onsdag den 5:e Maj 2021
 permalink: /lectures/middleware
 ---
 

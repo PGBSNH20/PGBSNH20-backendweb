@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Model binding
-lectureDate: Måndag den 5:e Maj 2021
+lectureDate: Fredag den 30:e April 2021
 permalink: /lectures/model-binding
 ---
 
