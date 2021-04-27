@@ -73,6 +73,9 @@ topics:
       timeType: Article
       timeMinutes: 36
       timeBadge: info
+    recomendedLiterature:
+    - title: "Resolve Services In ASP.NET Core Startup"
+      url: https://khalidabuhakmeh.com/resolve-services-in-aspnet-core-startup
     optionalLiterature:
     - title: "Deep Dive into Dependency Injection and Writing Decoupled Quality Code and Testable Software"
       url: https://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DEV-B412

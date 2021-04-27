@@ -56,6 +56,23 @@ topics:
       timeType: Article
       timeMinutes: 6
       timeBadge: info
+    recomendedLiterature:
+    - title: "REST API Tutorial"
+      url: https://www.restapitutorial.com/
+    - title: "Three Principles of API First Design"
+      url: https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694
+    - title: "API Design Guidelines and Best Practices Cheat Sheet"
+      url: https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet
+      timeType: Repository
+      timeMinutes: 0
+      timeBadge: dark
+      description: >
+        RestCheatSheet/api-cheat-sheet
+    - title: "Web API Design"
+      url: https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf
+      timeType: PDF
+      timeMinutes: 0
+      timeBadge: dark
     optionalLiterature:
     - title: "REST API Versioning Guide"
       url: https://restfulapi.net/versioning/
@@ -97,6 +114,9 @@ topics:
       timeType: Article
       timeMinutes: 10
       timeBadge: info
+    recomendedLiterature:
+    - title: "Adding Examples"
+      url: https://swagger.io/docs/specification/adding-examples/
     optionalLiterature:
     - title: "OpenAPI Specification"
       url: https://swagger.io/specification/
@@ -118,6 +138,11 @@ topics:
       timeType: Tutorial
       timeMinutes: 47
       timeBadge: info
+    recomendedLiterature:
+    - title: "Generate Client for ASP.NET Core Web API using OpenAPI"
+      url: https://www.davidhayden.me/blog/generate-client-for-asp-net-core-web-api-using-openapi
+    - title: "Asp.Net Core 5 Rest API Step by Step - DEV Community"
+      url: https://dev.to/moe23/asp-net-core-5-rest-api-step-by-step-2mb6
     optionalLiterature:
     - title: "API versioning with ASP.NET Core and Swashbuckle"
       url: https://codingfreaks.de/dotnet-core-api-versioning/
