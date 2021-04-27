@@ -73,7 +73,7 @@ topics:
       timeType: Article
       timeMinutes: 36
       timeBadge: info
-    recomendedLiterature:
+    recommendedLiterature:
     - title: "Resolve Services In ASP.NET Core Startup"
       url: https://khalidabuhakmeh.com/resolve-services-in-aspnet-core-startup
     optionalLiterature:

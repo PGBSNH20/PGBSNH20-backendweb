@@ -56,7 +56,7 @@ topics:
       timeType: Article
       timeMinutes: 6
       timeBadge: info
-    recomendedLiterature:
+    recommendedLiterature:
     - title: "REST API Tutorial"
       url: https://www.restapitutorial.com/
     - title: "Three Principles of API First Design"
@@ -114,7 +114,7 @@ topics:
       timeType: Article
       timeMinutes: 10
       timeBadge: info
-    recomendedLiterature:
+    recommendedLiterature:
     - title: "Adding Examples"
       url: https://swagger.io/docs/specification/adding-examples/
     optionalLiterature:
@@ -138,7 +138,7 @@ topics:
       timeType: Tutorial
       timeMinutes: 47
       timeBadge: info
-    recomendedLiterature:
+    recommendedLiterature:
     - title: "Generate Client for ASP.NET Core Web API using OpenAPI"
       url: https://www.davidhayden.me/blog/generate-client-for-asp-net-core-web-api-using-openapi
     - title: "Asp.Net Core 5 Rest API Step by Step - DEV Community"
