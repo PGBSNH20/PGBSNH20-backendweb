@@ -1,5 +1,20 @@
 ---
 contentTimeTotal:
   literatureTime: 0
-  optionalLiteratureTime: 0
+  optionalLiteratureTime: 16
+notInTopic:
+  literature:
+  - title: "Model Binding in ASP.NET Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-5.0
+    timeType: Article
+    timeMinutes: 0
+    timeBadge: dark
+    description: >
+      Lenth: 32
+  optionalLiterature:
+  - title: "Custom Model Binding in ASP.NET Core"
+    url: https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding?view=aspnetcore-5.0
+    timeType: Article
+    timeMinutes: 16
+    timeBadge: info
 topics:
