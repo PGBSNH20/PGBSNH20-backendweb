@@ -14,6 +14,8 @@ Hur kan vi kopla vår modeller till web förfrågningar?
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+Estimerat samlat "läs"-tid för lektionslittertur är **{{site.data.lecture_model_binding.contentTimeTotal.literatureTime}} min** (för den frivilliga fördjupningslitteratur gäller {{site.data.lecture_model_binding.contentTimeTotal.optionalLiteratureTime}} min)
+
 {% include lecturenontopics.html lectureData="lecture_model_binding" %}
 {% include lecturetopics.html lectureData="lecture_model_binding" %}
 
