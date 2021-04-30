@@ -20,3 +20,5 @@ Introduktion till SignalR
 {% include lecturetopics.html lectureData="lecture_async_webapplication" %}
 
 ## Uppgifter
+
+Ludo v2 projekt

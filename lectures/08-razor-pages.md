@@ -18,3 +18,5 @@ Hur kan man generere en websida med Razor pages i ASP.NET Core?
 {% include lecturetopics.html lectureData="lecture_razor_pages_and_tag_helpers" %}
 
 ## Uppgifter
+
+Start på Ludo v2 projekt

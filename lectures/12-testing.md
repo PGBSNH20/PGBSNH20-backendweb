@@ -18,3 +18,5 @@ Hur kan vi automatisk testa vår webbapplikationer?
 {% include lecturetopics.html lectureData="lecture_automatic_testing" %}
 
 ## Uppgifter
+
+Ludo v2 projekt

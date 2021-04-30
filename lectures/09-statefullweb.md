@@ -18,3 +18,5 @@ Vad är states? Hur kan vi säkerställa att applikation kommer ihåg data imell
 {% include lecturetopics.html lectureData="lecture_statefull_websites" %}
 
 ## Uppgifter
+
+Ludo v2 projekt

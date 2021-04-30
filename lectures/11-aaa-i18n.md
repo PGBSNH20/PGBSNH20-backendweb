@@ -18,3 +18,5 @@ Hur kan vi smidigt binda data till vår applikation och säkerställa att det ä
 {% include lecturetopics.html lectureData="lecture_authentication_and_internationalization" %}
 
 ## Uppgifter
+
+Ludo v2 projekt

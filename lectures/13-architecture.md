@@ -18,3 +18,5 @@ Hvad ska vi tänka på när vi bygger arkitekturen till vår webbapplikation?
 {% include lecturetopics.html lectureData="lecture_architecture" %}
 
 ## Uppgifter
+
+Ludo v2 projekt
