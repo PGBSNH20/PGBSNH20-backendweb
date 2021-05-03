@@ -9,7 +9,7 @@ Hur kan man generere en websida med Razor pages i ASP.NET Core?
 
 ## Lektionsplan
 
-{% include lectureplan.html lectureWeek=3 lectureDay=2 lectureCaption="Lektion från kl. 8:30 till kl. 16:30" %}
+{% include lectureplan.html lectureWeek=3 lectureDay=0 lectureCaption="Lektion från kl. 8:30 till kl. 16:30" %}
 
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
