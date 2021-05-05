@@ -20,3 +20,5 @@ Vad är middelware? Hur kan vi bygga advancerat funktionaltet med hjälp från m
 ## Uppgifter
 
 SpacePark v2 projekt
+
+GitHub Learning Labs: [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
