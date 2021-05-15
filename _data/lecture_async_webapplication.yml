@@ -1,7 +1,7 @@
 ---
 contentTimeTotal:
   literatureTime: 20
-  optionalLiteratureTime: 25
+  optionalLiteratureTime: 36
 notInTopic:
   literature:
   - title: "An Introduction to WebSockets"
@@ -13,10 +13,8 @@ notInTopic:
   - title: "A Basic Introduction to Webhooks"
     url: https://markheath.net/post/basic-introduction-webhooks
     timeType: Article
-    timeMinutes: 0
-    timeBadge: dark
-    description: >
-      Legth: 11
+    timeMinutes: 11
+    timeBadge: info
   - title: "What is HTTP Long Polling?"
     url: https://www.pubnub.com/blog/http-long-polling/
     timeType: Article
