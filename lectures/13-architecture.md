@@ -14,6 +14,8 @@ Hvad ska vi tänka på när vi bygger arkitekturen till vår webbapplikation?
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+Estimerat samlat "läs"-tid för lektionslittertur är **{{site.data.lecture_architecture.contentTimeTotal.literatureTime}} min** (för den frivilliga fördjupningslitteratur gäller {{site.data.lecture_architecture.contentTimeTotal.optionalLiteratureTime}} min)
+
 {% include lecturenontopics.html lectureData="lecture_architecture" %}
 {% include lecturetopics.html lectureData="lecture_architecture" %}
 

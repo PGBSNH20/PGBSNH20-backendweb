@@ -14,6 +14,8 @@ Vad är middelware? Hur kan vi bygga advancerat funktionaltet med hjälp från m
 ## Lektionslitteratur
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+Estimerat samlat "läs"-tid för lektionslittertur är **{{site.data.lecture_middleware_in_asp_net_core.contentTimeTotal.literatureTime}} min** (för den frivilliga fördjupningslitteratur gäller {{site.data.lecture_middleware_in_asp_net_core.contentTimeTotal.optionalLiteratureTime}} min)
+
 {% include lecturenontopics.html lectureData="lecture_middleware_in_asp_net_core" %}
 {% include lecturetopics.html lectureData="lecture_middleware_in_asp_net_core" %}
 
