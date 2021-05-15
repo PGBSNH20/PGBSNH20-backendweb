@@ -1,7 +1,7 @@
 ---
 contentTimeTotal:
-  literatureTime: 0
-  optionalLiteratureTime: 0
+  literatureTime: 20
+  optionalLiteratureTime: 10
 notInTopic:
   literature:
   - title: "ASP.NET Core built-in Tag Helpers - Microsoft Docs"
@@ -20,6 +20,31 @@ notInTopic:
   - title: "Six things I learnt about using ASP.NET Core’s Razor Pages"
     url: https://www.thereformedprogrammer.net/six-things-i-learnt-about-using-asp-net-cores-razor-pages/
 topics:
+  - topic: "Blazor"
+    literatureTime: 20
+    optionalLiteratureTime: 10
+    description-include: blazor.md
+    literature:
+    - title: "Introduction to ASP.NET Core Blazor - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0
+      timeType: Article
+      timeMinutes: 5
+      timeBadge: info
+      description: >
+        Explore ASP.NET Core Blazor, a way to build interactive client-side web UI with .NET in an ASP.NET Core app.
+    - title: "Blazor Introduction - What is Blazor? - Claudio Bernasconi"
+      url: https://www.claudiobernasconi.ch/2020/01/21/blazor-introduction-what-is-blazor/
+      timeType: Article
+      timeMinutes: 15
+      timeBadge: info
+      description: >
+        Learn in this Blazor introduction what Blazor is and how a Blazor application looks like for a .NET developer.
+    optionalLiterature:
+    - title: "Blazor Full-Stack Web Dev in ASP .NET Core"
+      url: https://wakeupandcode.com/blazor-full-stack-web-dev-in-asp-net-core/
+      timeType: Article
+      timeMinutes: 10
+      timeBadge: info
   - topic: "MVC"
     literatureTime: 0
     optionalLiteratureTime: 0
