@@ -14,7 +14,7 @@ Vi kommer under denna kurs att ha två projekt, och vi känner igen den del av u
 * Start: 2021-04-28 - Onsdag
 * Deadline: 2021-05-07 (8 dagar) - Fredag
 * Inlämning: Kod + dokumentation
-* Betygsgrundande: 10 poäng
+* Betygsgrundande: IG / G
 
 ## The Ludo Game 2.0
 * Mål: Bygga en Razor Page applikation med ASP.NET Core, som i sin tur prater med ett REST API
@@ -22,9 +22,9 @@ Vi kommer under denna kurs att ha två projekt, och vi känner igen den del av u
 * Start: 2021-05-10 - Måndag
 * Deadline: 2021-05-28 (14 dagar) - Fredag
 * Inlämning: Kod + dokumentation + video presentation
-* Betygsgrundande: 15 poäng
+* Betygsgrundande: IG / G
 
-# Tenta
+# Tenta / Indviduell uppgift
 
 Uppgiften kommer att vara en reflektion över kursen med en rad frågor som önskas besvaras.
 
