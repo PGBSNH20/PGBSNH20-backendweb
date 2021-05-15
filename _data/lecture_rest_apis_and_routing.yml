@@ -144,6 +144,11 @@ topics:
       timeMinutes: 47
       timeBadge: info
     recommendedLiterature:
+    - title: "Beginner's Series to: Web APIs"
+      url: https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs
+      timeType: Collection
+      timeMinutes: 0
+      timeBadge: dark
     - title: "Generate Client for ASP.NET Core Web API using OpenAPI"
       url: https://www.davidhayden.me/blog/generate-client-for-asp-net-core-web-api-using-openapi
     - title: "Asp.Net Core 5 Rest API Step by Step - DEV Community"

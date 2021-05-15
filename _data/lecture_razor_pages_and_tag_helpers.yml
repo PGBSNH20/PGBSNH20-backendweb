@@ -11,8 +11,14 @@ notInTopic:
   - title: "Introduction to Razor Pages in ASP.NET Core - Microsoft Docs"
     url: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio
   optionalLiterature:
+  - title: "ASP.NET Razor Pages vs MVC: How Do Razor Pages Fit in Your Toolbox? – Stackify"
+    url: https://stackify.com/asp-net-razor-pages-vs-mvc/
+    description: >
+      There are some cool updates to ASP.NET. One of those is the addition of Razor Pages. Compare Razor Pages to MVC and get code examples.
   - title: "An introduction to ViewComponents - a login status view component"
     url: https://andrewlock.net/an-introduction-to-viewcomponents-a-login-status-view-component/
+  - title: "Six things I learnt about using ASP.NET Core’s Razor Pages"
+    url: https://www.thereformedprogrammer.net/six-things-i-learnt-about-using-asp-net-cores-razor-pages/
 topics:
   - topic: "MVC"
     literatureTime: 0

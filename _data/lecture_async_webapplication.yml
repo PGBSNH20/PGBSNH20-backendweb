@@ -1,5 +1,51 @@
 ---
 contentTimeTotal:
-  literatureTime: 0
-  optionalLiteratureTime: 0
+  literatureTime: 20
+  optionalLiteratureTime: 25
+notInTopic:
+  literature:
+  - title: "An Introduction to WebSockets"
+    url: https://blog.teamtreehouse.com/an-introduction-to-websockets
+    timeType: Article
+    timeMinutes: 13
+    timeBadge: info
+  optionalLiterature:
+  - title: "A Basic Introduction to Webhooks"
+    url: https://markheath.net/post/basic-introduction-webhooks
+    timeType: Article
+    timeMinutes: 0
+    timeBadge: dark
+    description: >
+      Legth: 11
+  - title: "What is HTTP Long Polling?"
+    url: https://www.pubnub.com/blog/http-long-polling/
+    timeType: Article
+    timeMinutes: 3
+    timeBadge: info
 topics:
+  - topic: "SignalR"
+    literatureTime: 7
+    optionalLiteratureTime: 22
+    description-include: signalr.md
+    literature:
+    - title: "SignalR Tutorial 1 - What is SignalR?"
+      url: https://www.youtube.com/watch?v=kr8uHeNjOKw&list=PL_c9BZzLwBRKJugyyAdhBoAPRs1DdaS7n
+      timeType: Video
+      timeMinutes: 5
+      timeBadge: danger
+    - title: "Introduction to ASP.NET Core SignalR"
+      url: https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0
+      timeType: Article
+      timeMinutes: 2
+      timeBadge: info
+    optionalLiterature:
+    - title: "Discovering ASP.NET Core SignalR"
+      url: https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/april/cutting-edge-discovering-asp-net-core-signalr
+      timeType: Article
+      timeMinutes: 12
+      timeBadge: info
+    - title: "Under the Covers of ASP.NET Core SignalR"
+      url: https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/may/cutting-edge-under-the-covers-of-asp-net-core-signalr
+      timeType: Article
+      timeMinutes: 10
+      timeBadge: info
