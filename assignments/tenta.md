@@ -4,7 +4,7 @@ title: Tentamen
 permalink: /assignments/tenta
 ---
 
-Längd: 4+ timmar, deadline fredag den 16:e april kl 13:00.
+Längd: 4+ timmar, deadline fredag den 4:e juni kl 13:00.
 
 Ni kommer att få tillgång till tentan torsdag eftermiddag den 27:e, men ni kommer att bli bedömt ut ifrån en förväntat arbetstid på 4 timmar (det förväntas alltså **inte** att ni jobbar med inlämningen i 22 timmar), så om ni vill ta er mer tid har ni möjlighet till det, plus att ni kan planera litet som ni vill.
 
