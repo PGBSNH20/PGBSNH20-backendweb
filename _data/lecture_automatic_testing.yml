@@ -21,6 +21,14 @@ notInTopic:
     timeMinutes: 25
     timeBadge: info
   optionalLiterature:
+  - title: "VerifyTests/Verify"
+    url: https://github.com/VerifyTests/Verify
+    description: >
+      Verify is a snapshot tool that simplifies the assertion of complex data models and documents. - VerifyTests/Verify
+  - title: "Fast and reliable end-to-end testing for modern web apps - Playwright"
+    url: https://playwright.dev/dotnet/
+    description: >
+      Cross-browser end-to-end testing for modern web apps
   - title: "Beginning Test-Driven Development in .NET Core"
     url: https://fullstackmark.com/post/8/beginning-test-driven-development-in-net-core
     timeType: Article
