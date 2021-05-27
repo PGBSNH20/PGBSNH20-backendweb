@@ -6,7 +6,7 @@ permalink: /assignments/tenta
 
 Längd: 4+ timmar, deadline fredag den 4:e juni kl 13:00.
 
-Ni kommer att få tillgång till tentan torsdag eftermiddag den 27:e, men ni kommer att bli bedömt ut ifrån en förväntat arbetstid på 4 timmar (det förväntas alltså **inte** att ni jobbar med inlämningen i 22 timmar), så om ni vill ta er mer tid har ni möjlighet till det, plus att ni kan planera litet som ni vill.
+Ni kommer att få tillgång till tentan torsdag eftermiddag den 2:a juni.
 
 Tentan kommer att vara online så ni kan sitta vart ni känner för det.
 
@@ -19,3 +19,5 @@ Alla svar måste vara dina egna och ingen hjälp från andra är tillåten (inkl
 Alla hjälpmedel kommer att vara tillåten. Det är rekommenderat att ha skriv-papper klart i fall man behöver att göra ritningar som en del av inlämningen (det är oftast snabbare att göra det per hand än på datorn).
 
 Texten ska skrivas som markdown, med användning av bilder, figurer och länkar. Förutom inlämning av markdown filen kan även en PDF version inlämnas (för att säkerställa att där inte blir knas med bilder etc.). Inlämning kommer att ske via Ping Pong.
+
+**OBS!!** På slutet måste ni lägga in länken till ert repo i PingPong.
