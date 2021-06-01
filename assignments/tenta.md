@@ -4,11 +4,11 @@ title: Tentamen
 permalink: /assignments/tenta
 ---
 
-Längd: 4+ timmar, deadline fredag den 4:e juni kl 13:00.
+Deadline fredag den 4:e juni kl 13:00.
 
-Ni kommer att få tillgång till tentan torsdag eftermiddag den 2:a juni.
+Ni kommer att få tillgång till tentan onsdag eftermiddag den 2:a juni 2021.
 
-Tentan kommer att vara online så ni kan sitta vart ni känner för det.
+Tentan kommer att vara online (på GitHub) så ni kan sitta vart ni känner för det.
 
 Under denna tenta kommer ni att få ett antal frågor som ni får svara på med fritext svar (på svenska eller engelska). Under bedömning av dina svar kommer det att läggas vikt på hur bra du **argumentera** för ditt svar med relevante referenser.
 
@@ -18,6 +18,6 @@ Alla svar måste vara dina egna och ingen hjälp från andra är tillåten (inkl
 
 Alla hjälpmedel kommer att vara tillåten. Det är rekommenderat att ha skriv-papper klart i fall man behöver att göra ritningar som en del av inlämningen (det är oftast snabbare att göra det per hand än på datorn).
 
-Texten ska skrivas som markdown, med användning av bilder, figurer och länkar. Förutom inlämning av markdown filen kan även en PDF version inlämnas (för att säkerställa att där inte blir knas med bilder etc.). Inlämning kommer att ske via Ping Pong.
-
+Texten ska skrivas som markdown, med användning av bilder, figurer och länkar. 
+Inlämning sker via GitHub (push till main branch), på ert privata Repo (som ni får tillgång till via Classroom). 
 **OBS!!** På slutet måste ni lägga in länken till ert repo i PingPong.
